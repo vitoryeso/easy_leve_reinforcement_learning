@@ -2,4 +2,4 @@
 Solving discrete state/action environments with MonteCarlo and Q-learning methods
 
 # Environments:
-1. [https://github.com/MattChanTK/gym-maze (Maze 2d)
+1. [Maze 2D] (https://github.com/MattChanTK/gym-maze)
