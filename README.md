@@ -1,4 +1,4 @@
-# easy_leve_reinforcement_learning
+# Easy Level Reinforcement Learning
 Solving discrete state/action environments with MonteCarlo and Q-learning methods
 
 # Environments:
